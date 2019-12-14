@@ -1,4 +1,4 @@
-# Análise de dados dos experimentos de avaliação da ferramente XiloTool
+# Análise de dados dos experimentos de avaliação da ferramenta XiloTool
 
 Neste repositório, apresentamos os dados utilizados na experimentação da
 ferramenta Xilo Tool com estudantes da UFRN e UnP (Natal, Rio Grande do Norte, Brasil).
